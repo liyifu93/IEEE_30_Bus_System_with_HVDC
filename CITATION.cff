@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Li
+    given-names: Yifu
+    orcid: https://orcid.org/0000-0002-2031-3915
+title: "Adaptive Harmonic Power Flow Algorithm for Hybrid AC/DC Transmission Systems"
+version: 2.0.4
+doi: 10.1109/IAS54023.2022.9940048
+date-released: 2022-11-17
