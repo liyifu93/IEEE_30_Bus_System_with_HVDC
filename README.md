@@ -4,5 +4,3 @@ IEEE 30 Bus Transmission System with PWM controlled VSC-HVDC link
 
 For the detailed information, check the following paper and cite me by
 - Y. Li, S. Wang, A. H. Etemadi and P. Dehghanian, "Adaptive Harmonic Power Flow Algorithm for Hybrid AC/DC Transmission Systems," <em>2022 IEEE Industry Applications Society Annual Meeting (IAS)</em>, Detroit, MI, USA, 2022, pp. 1-7, doi: 10.1109/IAS54023.2022.9940048.
-
-If there is any problem, please contact me through liyifu@gwu.edu
